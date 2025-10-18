@@ -1,6 +1,6 @@
 # Task 5 — Text Classification of Consumer Complaints
 
-### 💡 Description
+### Description
 
 This project performs **text classification** on the Consumer Complaint dataset from [Consumer Finance](https://catalog.data.gov/dataset/consumer-complaint-database).  
 The goal is to classify complaints into the following categories:
@@ -14,7 +14,7 @@ The goal is to classify complaints into the following categories:
 
 ---
 
-### ⚙️ Features
+### Features
 
 - Data Cleaning and Preprocessing
 - Exploratory Data Analysis (EDA)
