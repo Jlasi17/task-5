@@ -76,6 +76,10 @@ Shows the top words contributing to classification for each category based on Lo
 - Debt Collection: ![Debt Collection Top Words](screenshots/confusion-matrix-random.png)
 - Mortgage: ![Mortgage Top Words](screenshots/mortgage.png)
 
+#### 5 predictions of the best model
+
+![prediction](screenshots/prediction.png)
+
 ---
 
 ### Conclusion
